@@ -30,8 +30,8 @@ BabaTree closes that gap with a two-layer motivation model:
 
 | Layer | Motivation | Trigger | Timescale |
 |---|---|---|---|
-| 1 | Instant gratification *(the same instant dopamine hit that makes social media addictive, redirected here for good)* | A virtual tree grows the moment you tick an on-time prayer | Seconds |
-| 2 | Delayed, compounding gratification | A **real tree** planted in your name at a cumulative milestone (Phase 2) — and unlike a one-time delayed reward, Sadaqah Jariyah keeps compounding indefinitely once it arrives | Permanent |
+| 1 | Instant gratification *(the same instant dopamine hit that makes social media addictive, redirected here for good)* | A **virtual tree** grows the moment you tick an on-time prayer | Seconds |
+| 2 | Delayed, compounding gratification | A **real tree** planted in your name at a cumulative milestone (Phase 2) — and unlike a one-time delayed reward, ongoing charity (Sadaqa Jariya) keeps compounding indefinitely once it arrives | Permanent |
 
 ## 2. What Phase 1 (this repo) actually does
 
