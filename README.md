@@ -18,7 +18,13 @@ BabaTree pairs two kinds of good in one habit loop: **prayer consistency** (spir
 
 ## 1. The Problem
 
-Muslims pray five times a day within fixed, short time windows (Fajr, Dhuhr, Asr, Maghrib, Isha). Most people already know *why* they should pray on time — what's missing isn't belief, it's **feedback**. Prayer's reward is delayed and spiritual; modern apps have trained us to expect instant, visible reward for every action.
+Muslims are obligated to pray five daily prayers — Fajr, Dhuhr, Asr, Maghrib, and Isha — each within a specific time window determined by the position of the sun. These windows are not arbitrary; they are fixed, meaningful, and relatively short.
+
+Yet many Muslims struggle with consistency. The reasons are psychological, not theological:
+
+- Modern life is engineered for distraction. Social media and notifications deliver instant dopamine hits.
+- Prayer, by contrast, offers a delayed and spiritual reward — one that does not register on the brain's immediate gratification circuits.
+- Without an immediate feedback loop, the motivation to pray on time weakens — especially for younger generations raised on instant digital feedback.
 
 BabaTree closes that gap with a two-layer motivation model:
 
