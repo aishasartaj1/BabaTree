@@ -4,7 +4,7 @@
 
 Built for the Kaggle *AI Agents: Intensive Vibe Coding Capstone* — **Agents for Good** track.
 
-[Watch Video Demo](https://www.youtube.com/watch?v=N0FD6s07qj0)
+**[Watch Video Demo](https://www.youtube.com/watch?v=N0FD6s07qj0)**
 ---
 
 ### The Origin
